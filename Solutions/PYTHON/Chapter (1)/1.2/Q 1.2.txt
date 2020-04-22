@@ -1,0 +1,15 @@
+1.2 Check Permutation: Given two strings, write a method to decide if one is a permutation of the
+other.
+
+Hints:
+
+#1. 1.2 Describe what it means for two strings to be permutations of each other. Now, look at
+that definition you provided. Can you check the strings against that definition?
+
+#84. 1.2 There is one solution that isO(N log N) time. Another solution uses some space, but
+isO(N) time. 
+
+#122. 1.2 Could a hash table be useful?
+
+#131. 1.2 Two strings that are permutations should have the same characters, but in different
+orders. Can you make the orders the same?
